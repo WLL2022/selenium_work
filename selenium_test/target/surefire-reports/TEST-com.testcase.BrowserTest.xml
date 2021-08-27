@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="0" failures="0" name="com.testcase.BrowserTest" time="0.001" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="/Users/wll/.m2/repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="env.XPC_SERVICE_NAME" value="0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/classes"/>
+    <property name="env.TMPDIR" value="/var/folders/mc/xfp42xcj6hlc67549mlx53s00000gn/T/"/>
+    <property name="env.PWD" value="/Users/wll/softwares/IDEA_workspace/selenium_test"/>
+    <property name="env.LESS" value="-R"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="1.8.0_161-b12"/>
+    <property name="user.name" value="wll"/>
+    <property name="maven.build.version" value="Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)"/>
+    <property name="env.USER" value="wll"/>
+    <property name="env.SHELL" value="/bin/zsh"/>
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x19:0x34"/>
+    <property name="env.PATH" value="/bin:/usr/bin:/usr/local/bin:/Users/wll/Library/Python/3.8/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/bin:/Users/wll/.jenv/shims:/Users/wll/.jenv/bin:/usr/local/opt/openjdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wll/softwares/selenium:.:/Users/wll/softwares/apache-jmeter-5.3/bin:/Users/wll/.jenv/shims:/Users/wll/.jenv/bin:/usr/local/opt/openjdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wll/softwares/selenium:/usr/local/mysql/bin:/Users/wll/softwares/apache-maven-3.6.3/bin"/>
+    <property name="user.language" value="zh"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib"/>
+    <property name="classworlds.conf" value="/Users/wll/softwares/apache-maven-3.6.3/bin/m2.conf"/>
+    <property name="env.XPC_FLAGS" value="0x0"/>
+    <property name="env.LC_CTYPE" value="zh_CN.UTF-8"/>
+    <property name="java.version" value="1.8.0_161"/>
+    <property name="user.timezone" value=""/>
+    <property name="env.ZDOTDIR" value=""/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="env.SHLVL" value="1"/>
+    <property name="env.LOGIN_SHELL" value="1"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/Users/wll/softwares/apache-maven-3.6.3/conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="user.country" value="CN"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre"/>
+    <property name="env.ZSH" value="/Users/wll/.oh-my-zsh"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="env.JENV_LOADED" value="1"/>
+    <property name="env.LOGNAME" value="wll"/>
+    <property name="os.version" value="10.15.7"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.161-b12"/>
+    <property name="env.JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="env.TERM" value="xterm-256color"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="env.JMETER_HOME" value="/Users/wll/softwares/apache-jmeter-5.3"/>
+    <property name="env.JAVA_MAIN_CLASS_37362" value="org.codehaus.plexus.classworlds.launcher.Launcher"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="env.LSCOLORS" value="Gxfxcxdxbxegedabagacad"/>
+    <property name="user.home" value="/Users/wll"/>
+    <property name="env.OLDPWD" value="/Users/wll/softwares/IDEA_workspace/selenium_test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="test" value="BrowserTest"/>
+    <property name="env.CLASSPATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/lib/tools.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/lib/dt.jar:.:/Users/wll/softwares/apache-jmeter-5.3/lib/ext/ApacheJMeter_core.jar:/Users/wll/softwares/apache-jmeter-5.3/lib/jorphan.jar:/Users/wll/softwares/apache-jmeter-5.3/lib/logkit-2.0.jar:"/>
+    <property name="env.PAGER" value="less"/>
+    <property name="library.jansi.path" value="/Users/wll/softwares/apache-maven-3.6.3/lib/jansi-native"/>
+    <property name="java.library.path" value="/Users/wll/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="env.MAVEN_CMD_LINE_ARGS" value=" -Dtest=BrowserTest test"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/Users/wll/softwares/apache-maven-3.6.3"/>
+    <property name="env.JENV_SHELL" value="zsh"/>
+    <property name="java.class.path" value="/Users/wll/softwares/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=BrowserTest test"/>
+    <property name="maven.version" value="3.6.3"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="env.browser" value="chrome"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="env.HOME" value="/Users/wll"/>
+    <property name="surefire.test.class.path" value="/Users/wll/softwares/IDEA_workspace/selenium_test/target/test-classes:/Users/wll/softwares/IDEA_workspace/selenium_test/target/classes:/Users/wll/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar:/Users/wll/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/wll/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/wll/.m2/repository/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/wll/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/wll/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/wll/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/wll/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/wll/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/wll/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/wll/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/wll/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/wll/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/wll/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/selenium-server/3.141.59/selenium-server-3.141.59.jar:/Users/wll/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/wll/.m2/repository/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar:/Users/wll/.m2/repository/org/seleniumhq/selenium/jetty-repacked/9.4.12.v20180830/jetty-repacked-9.4.12.v20180830.jar:/Users/wll/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/Users/wll/.m2/repository/org/yaml/snakeyaml/1.19/snakeyaml-1.19.jar:"/>
+    <property name="java.io.tmpdir" value="/var/folders/mc/xfp42xcj6hlc67549mlx53s00000gn/T/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/wll/softwares/IDEA_workspace/selenium_test"/>
+    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.P5AT2fz5Wl/Listeners"/>
+    <property name="env.__INTELLIJ_COMMAND_HISTFILE__" value="/Users/wll/Library/Application Support/JetBrains/IntelliJIdea2020.2/terminal/history/history-38"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.ext.dirs" value="/Users/wll/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="user.dir" value="/Users/wll/softwares/IDEA_workspace/selenium_test"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="basedir" value="/Users/wll/softwares/IDEA_workspace/selenium_test"/>
+    <property name="env.TERMINAL_EMULATOR" value="JetBrains-JediTerm"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="env.MAVEN_PROJECTBASEDIR" value="/Users/wll/softwares/IDEA_workspace/selenium_test"/>
+  </properties>
+</testsuite>
