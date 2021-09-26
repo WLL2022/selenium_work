@@ -2,7 +2,6 @@ package com.wework.page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import sun.nio.cs.UnicodeEncoder;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URL;
@@ -11,7 +10,7 @@ import java.net.URLDecoder;
 /**
  * 通讯录PO
  */
-public class ContactsPage extends BasePage{
+public class ContactsPage extends WebBasePage {
     By addMumber = By.linkText("添加成员");
 
     public ContactsPage(RemoteWebDriver driver) {

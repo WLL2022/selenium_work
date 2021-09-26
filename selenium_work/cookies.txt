@@ -1,18 +1,23 @@
-wwrtx.refid;0809322;/;.work.weixin.qq.com;null;false
+wwrtx.refid;02233947;/;.work.weixin.qq.com;null;false
+sd_cookie_crttime;1630493657701;/;.qq.com;Thu Sep 01 18:54:17 CST 2022;false
 wxpay.corpid;1970324955207085;/;.work.weixin.qq.com;null;false
 wwrtx.ltype;1;/;.work.weixin.qq.com;null;false
-wwrtx.d2st;a7928656;/;.work.weixin.qq.com;null;false
-_gid;GA1.2.433804579.1630379447;/;.qq.com;Thu Sep 02 10:05:23 CST 2021;false
+wwrtx.d2st;a3954866;/;.work.weixin.qq.com;null;false
+_gid;GA1.2.590566907.1632462098;/;.qq.com;Sat Sep 25 16:37:31 CST 2021;false
+ptcz;20b5dfedfa8769026df5ae32ba024a0624a871332c8588bd189d77cb120bfd57;/;.qq.com;Tue Jan 19 11:14:08 CST 2038;false
 pgv_pvid;6973264580;/;.qq.com;Mon Jan 18 08:00:00 CST 2038;false
+wwrtx.sid;sFTMCQECZ6F5xyXGKKYqUbeRCqp8tmXmooactqYIoGHTrQWMMccG8tf44CeMV0Ad;/;.work.weixin.qq.com;null;false
 wwrtx.c_gdpr;0;/;.work.weixin.qq.com;Wed Aug 31 11:10:47 CST 2022;true
-wwrtx.sid;sFTMCQECZ6F5xyXGKKYqUVQrEqmmS7MLzs7EdThHLuv-KMlvk200j13bww0c2mus;/;.work.weixin.qq.com;null;false
-Hm_lvt_9364e629af24cb52acc78b43e8c9f77d;1630291502,1630311287,1630401821,1630419210;/;.work.weixin.qq.com;Wed Aug 31 22:13:30 CST 2022;false
-Hm_lpvt_9364e629af24cb52acc78b43e8c9f77d;1630419210;/;.work.weixin.qq.com;null;false
+Hm_lvt_9364e629af24cb52acc78b43e8c9f77d;1630401821,1630419210,1631777860,1632462098;/;.work.weixin.qq.com;Sat Sep 24 13:41:37 CST 2022;false
+ptui_loginuin;1293051218@qq.com;/;.qq.com;Wed Oct 06 09:11:11 CST 2021;false
 wxpay.vid;1688850902890355;/;.work.weixin.qq.com;null;false
-_ga;GA1.2.66910972.1630379447;/;.qq.com;Fri Sep 01 10:05:23 CST 2023;false
-wwrtx.vst;Zt59MeRdjJhns4bsv-LsB-9D8_xsVk3d7UwYj_gPWBUr63VyeEoJxGlA945nxI8-TnUfJZanRnyUXk7dkUrYr29xRBex_UbnSNyE9mbGeP5ISovYvsMgzo5d-EmpC01PD_cPo8cPuPFg-Oke9E7iY_pCHEyQfqlIxOgour8ptuN7dJk_uKqHxpnP46-h6GQSoRHrf3MNBl7CxCBAJyE7We1FdZV547Bj0NdgRNg3e2lyj_UaKrAkvnTKXD2jSUydkLl9YAaIWhMywjW7SOcLvA;/;.work.weixin.qq.com;null;false
-wwrtx.vid;1688850902890355;/;.work.weixin.qq.com;null;false
+_gat;1;/;.qq.com;Fri Sep 24 16:38:31 CST 2021;false
+_ga;GA1.2.66910972.1630379447;/;.qq.com;Sun Sep 24 16:37:31 CST 2023;false
+RK;Spppx7ErE4;/;.qq.com;Tue Jan 19 11:14:08 CST 2038;false
+wwrtx.vst;w51iE-VMDlEtAh7aIQHbb3wvKh1hdiRFvoDuC4hdz3GYEI_D_CkOF77KyKlimLIvHuhK_bpfKj2elrswB3AZV9rO9iA785_M2q4wlEGsjxWO5QaD5PdAMe5MfBMGtwKmMQ5h1Oon5Lb6Qdc7BsogsM3T0Pt3zS_2b4azXAZ3D1-gF8f0aGhxz7W0oCoVRaTVP4Lwt5oKQa6RbQhV-CnyurYBFGgck6y3r57Y_Qf-1PsguOxmvPg8gwxsnsgVlNnBjyuqH2uaiyf7UktuMxKdzA;/;.work.weixin.qq.com;null;false
+sd_userid;59101630493657701;/;.qq.com;Thu Sep 01 18:54:17 CST 2022;false
 wwrtx.logined;true;/;.work.weixin.qq.com;null;false
-wwrtx.i18n_lan;zh;/;.work.weixin.qq.com;Fri Oct 01 10:05:26 CST 2021;false
+wwrtx.vid;1688850902890355;/;.work.weixin.qq.com;null;false
+wwrtx.i18n_lan;zh;/;.work.weixin.qq.com;Sun Oct 24 16:37:34 CST 2021;false
 wwrtx.cs_ind;;/;.work.weixin.qq.com;null;false
 wwrtx.ref;direct;/;.work.weixin.qq.com;null;false

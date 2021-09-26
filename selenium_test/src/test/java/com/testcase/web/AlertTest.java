@@ -13,9 +13,9 @@ public class AlertTest extends BaseTest{
     public void alertTest(){
         try {
             driver.get("https://www.runoob.com/try/try.php?filename=jqueryui-api-droppable");
-            driver.switchTo().frame("iframewrapper");
+            driver.switchTo().frame("iframeResult");
             Actions action = new Actions(driver);
-            action.dragAndDrop(driver.findElement(By.id("draggable")),driver.findElement(By.id("droggable"))).perform();
+            action.dragAndDrop(driver.findElement(By.id("draggable")),driver.findElement(By.id("droppable"))).perform();
 
             Thread.sleep(5000);
             //弹框处理

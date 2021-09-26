@@ -1,0 +1,8 @@
+name: weixin_main
+methods:
+  init:
+    - action: get
+      url: https://work.weixin.qq.com/wework_admin/frame
+
+  to_contact:
+    - click: {id: menu_contacts}

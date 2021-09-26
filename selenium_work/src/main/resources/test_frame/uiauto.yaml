@@ -1,0 +1,15 @@
+name: todo
+description: todo数据驱动
+steps:
+#  - method: click
+#    params: [1,2]
+#  - by: id
+#    action: click
+#    locator: search
+#  - action: click
+#    id: search
+  - click: {id: search}
+  - id: search
+    sendkeys: "haha"
+  - action: getText
+    id: search_text

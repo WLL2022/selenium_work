@@ -1,0 +1,7 @@
+name: web
+description: web数据驱动
+steps:
+  - action: get
+    url: https://ceshiren.com/
+  - click: {linkText: 热门}
+  - click: {linkText: 精华帖}

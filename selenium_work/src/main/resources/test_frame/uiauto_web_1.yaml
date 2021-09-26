@@ -1,0 +1,7 @@
+name: web
+description: web数据驱动
+steps:
+  - action: get
+    url: https://baidu.com/
+  - click: {linkText: 地图}
+  - click: {linkText: 贴吧}
